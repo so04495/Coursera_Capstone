@@ -1,4 +1,10 @@
+Intro/Business Problem:
 In which areas are restaurants of each brand concentrated the most? There is a chance that houses in the area can affect what kind of restaurants exist.
 Institutional buildings can also influence the concentration. The terrain and climate can also influence the concentration. Some businesses might not
 even be near each other for competitive reasons. The purpose of this question is to figure out the location for the most optimal restaurant placement,
 in terms of money and stock transportation.
+
+Data:
+I believe New York City will be a good starting location. The data I will be needing are coordinates of the individual restaurants, however many I
+could collect, and their respective names. I also need information, perhaps more coordinates, regarding the city infrastructure in relation to the
+restaurant locations.
