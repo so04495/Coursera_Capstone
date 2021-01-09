@@ -7,4 +7,18 @@ in terms of money and stock transportation.
 Data:
 I believe New York City will be a good starting location. The data I will be needing are coordinates of the individual restaurants, however many I
 could collect, and their respective names. I also need information, perhaps more coordinates, regarding the city infrastructure in relation to the
-restaurant locations.
+restaurant locations. The source of my data is some standard set provided by IBM.
+
+Methodology:
+Used Folium to map out the various points. Unfortunately, viewers will have to assume that the circle markers based on the data are restaurants, not some
+other thing. The entirety of New York is mapped out, and the algorithm is supposed to choose a spot relative to the density of the points.
+
+Results:
+The best areas to establish a restaurant business is the large empty spot in Staten Island and the largely populated areas of mainland New York.
+
+Discussion:
+The map is looking kinda bad. Someone should really compile data regarding restaurants.
+
+Conclusion:
+There is a severe lack of data regarding restaurants. In other words, there is nothing to collect, and a bunch more to create. It is an endeavor I am
+unwilling to suffer because the reward is too small. I am forced to do a lot of guesswork using a program that can't even tell what the markers indicate in detail.
